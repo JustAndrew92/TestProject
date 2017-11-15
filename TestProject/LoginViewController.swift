@@ -14,9 +14,5 @@ class LoginViewController: UIViewController {
         super.viewDidLoad()
     }
     
-    override func viewWillAppear() {
-        super.viewWillAppear
-    }
-    
     // MARK: - Methods
 }
